@@ -4,6 +4,9 @@ Converts png files into character/sprite roms for the pacman arcade hardware.
 
 # Installation
 
+Written in Go. To build and install:
+
+    $ go get github.com/bcampbell/png2pac
     $ go install github.com/bcampbell/png2pac
 
 # Invocation
